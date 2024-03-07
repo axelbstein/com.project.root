@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<feature url="features/com.project.feature_1.0.0.qualifier.jar" id="com.project.feature" version="1.0.0.qualifier">
+		<category name="com.project.category"/>
+	</feature>
+	<category-def name="com.project.category" label="Touchpoint Action Update Test Project"/>
+</site>

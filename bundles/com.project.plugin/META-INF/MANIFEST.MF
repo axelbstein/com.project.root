@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin
+Bundle-SymbolicName: com.project.plugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Provider
+Automatic-Module-Name: com.project.plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.equinox.p2.engine,
+ org.eclipse.core.runtime

@@ -1,0 +1,4 @@
+# This is not needed but included for testing.
+#provides.0.namespace=org.eclipse.equinox.p2.iu
+#provides.0.name=com.project.plugin
+#provides.0.version=1.0.0.$qualifier$
