@@ -1,6 +1,6 @@
 metaRequirements.0.namespace=org.eclipse.equinox.p2.iu
 metaRequirements.0.name=com.project.plugin
 # Replacing with 1.0.0.$qualifier$ or $version$ gives dependency conflict between new and old versions
-metaRequirements.0.range=1.0.0
+metaRequirements.0.range=1.0.0.$qualifier$
 
 instructions.configure=com.project.plugin.myCustomAction();
