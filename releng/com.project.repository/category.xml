@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-	<bundle url="bundles/com.project.plugin_1.0.0.qualifier.jar" id="com.project.plugin" version="1.0.0.qualifier"/>
 	<feature url="features/com.project.feature_1.0.0.qualifier.jar" id="com.project.feature" version="1.0.0.qualifier">
 		<category name="com.project.category"/>
 	</feature>
+	<bundle id="com.project.plugin" version="0.0.0"/>
 	<category-def name="com.project.category" label="Touchpoint Action Update Test Project"/>
 </site>

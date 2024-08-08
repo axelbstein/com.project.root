@@ -15,4 +15,5 @@
 	<groupId>com.project.bundles</groupId>
 	<artifactId>com.project.plugin</artifactId>
 	<packaging>eclipse-plugin</packaging>
+	<version>1.0.1-SNAPSHOT</version>
 </project>

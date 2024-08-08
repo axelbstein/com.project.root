@@ -14,7 +14,7 @@ public class MyCustomAction extends ProvisioningAction{
 
 	@Override
 	public IStatus execute(Map<String, Object> parameters) {
-		String fileName = "initial.txt"; // Change this to "changed.txt" for part 2 of the test
+		String fileName = "noqualifier.txt"; // Change this to "changed.txt" for part 2 of the test
 		try {
 			File myFile = new File(System.getProperty("user.home") + System.getProperty("file.separator") + fileName);
 			JOptionPane.showMessageDialog(null, "File: " + myFile.getName(), myFile.getName(), JOptionPane.PLAIN_MESSAGE);
